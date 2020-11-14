@@ -3,7 +3,7 @@
 
 ## I'm a Junior Front-End developer
 
-- 🔭 a passionate self-taught frontEnd web developer from London.
+- 🔭 a passionate self-taught Junior Front End Web developer from London.🇬🇧
 - 🔎I'm specialized in HTML/CSS and JavaScript on the frontend.
 
 - 👯  I’m looking to collaborate on Front-End projects
