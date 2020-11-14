@@ -62,9 +62,9 @@
 [https://uidesigndaily.com/](https://www.youtube.com/watch?v=9GPH5xvLLRo)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
 
----
+
+
 
 
 
