@@ -14,7 +14,8 @@
 🎧 I like listening to music
  I’m looking to collaborate with other front end developers
 🏁 
-🐶 I don't have work experience 
+- I want to work under a senior person doing the grunt work he doesn't want to do, so I can learn and get better and better
+🐶 I don't have work experience,
 
 ### Spotify Playing 🎧
 
