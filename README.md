@@ -8,7 +8,7 @@
 
 - 👯  I’m looking to collaborate on Front-End projects
 - 🥅 2020 Goals: Learn New Tehnologies And find a Junior Front end Dev position.
-- 📫 How to reach me:[@adriangeorge]()
+- 📫 How to reach me:<a href="mailto: adrian_george28yahoo.com">Adrian</a>
 - ⚡ Fun fact: I like to play cheess
 - I’m currently learning a Js for Everybody Specialization
 🎧 I like listening to music
