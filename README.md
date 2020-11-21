@@ -15,7 +15,8 @@
  I’m looking to collaborate with other front end developers
 🏁 
 - I want to work under a senior person doing the grunt work he doesn't want to do, so I can learn and get better and better
-🐶 I don't have work experience,
+-  🤗I am looking for a new role and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
+
 
 ### Spotify Playing 🎧
 
