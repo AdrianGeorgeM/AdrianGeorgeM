@@ -27,8 +27,7 @@
 
 
 
-
-[<img align="left" alt="" width="22px" src="https://adriansportfolio.netlify.app/" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -81,7 +80,7 @@
 
 </details>
 
-[website]:
+[website]: https://adriansportfolio.netlify.app/
 [course]: 
 [linkedin]: https://www.linkedin.com/in/adrian-george-aa01721a5/
 [webdevplaylist]: 
