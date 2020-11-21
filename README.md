@@ -55,7 +55,7 @@
 ### 📺 Currently seeking to polish my coding skills. 
 
 <!-- YOUTUBE:START -->
-- [HACKER RANK -Practise Problem Solving and Practice js Challenges](https://www.youtube.com/watch?v=Vt7omOyyjrc)
+- [HACKER RANK -Practise Problem Solving and Practice js Challenges]
 - [Code Wars Js Chalenges]
 - [Codin Game ]
 - [Kodiri]
