@@ -28,7 +28,7 @@
 
 
 
-[<img align="left" alt="Adrian Website" width="22px" src="https://adriansportfolio.netlify.app/" />][website]
+[<img align="left" alt="" width="22px" src="https://adriansportfolio.netlify.app/" />][website]
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
