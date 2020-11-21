@@ -56,11 +56,11 @@
 
 <!-- YOUTUBE:START -->
 - [HACKER RANK -Practise Problem Solving and Practice js Challenges](https://www.youtube.com/watch?v=Vt7omOyyjrc)
-- [Code Wars Js Chalenges](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
-- [Codin Game ](https://www.youtube.com/watch?v=NUjyvWTKM0g)
-- [Kodiri](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
-- [Css Battle](https://www.youtube.com/watch?v=9GPH5xvLLRo)
-[https://uidesigndaily.com/](https://www.youtube.com/watch?v=9GPH5xvLLRo)
+- [Code Wars Js Chalenges]
+- [Codin Game ]
+- [Kodiri]
+- [Css Battle]
+[https://uidesigndaily.com/]
 <!-- YOUTUBE:END -->
 
 
@@ -80,10 +80,9 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]:
+[course]: 
 [linkedin]: https://www.linkedin.com/in/adrian-george-aa01721a5/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-
+[webdevplaylist]: 
+[jsplaylist]:
+[cssplaylist]: 
