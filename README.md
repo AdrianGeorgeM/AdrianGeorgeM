@@ -25,6 +25,12 @@
 [<img src="https://novatorem100.adriangeorgem.vercel.app
 /api/spotify" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+[![Spotify](https://novatorem100.adriangeorgem.vercel.app
+/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+### Spotify Playing 🎧
+
+[<img src="https://novatorem100.adriangeorgem.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 
