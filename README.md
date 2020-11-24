@@ -22,7 +22,9 @@
 
 
 
-[<img src="https://novatorem1-eta.vercel.app/api/spotify" alt="Adrian Spotify Playing" width="350" />](https://open.spotify.com/user/kingmanolo)
+[<img src="https://novatorem100.adriangeorgem.vercel.app
+/api/spotify" alt="Adrian Spotify Playing" width="350" />](https://open.spotify.com/user/kingmanolo)
+
 [![Spotify](https://novatorem100.adriangeorgem.vercel.app
 /api/spotify)](https://open.spotify.com/user/kingmanolo)
 
