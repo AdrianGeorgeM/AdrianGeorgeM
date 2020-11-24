@@ -26,7 +26,7 @@
 /api/spotify" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 [![Spotify](https://novatorem100.adriangeorgem.vercel.app
-/api/spotify)](https://open.spotify.com/user/USER_NAME)
+/api/spotify)](https://open.spotify.com/user/kingmanolo)
 
 ### Spotify Playing 🎧
 
