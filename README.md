@@ -119,4 +119,4 @@ products that serve a great deal of purpose. I'm currently into Web Development
 
 ### If you like this ReadMe file, please give me star! ❤️
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/AdrianGeorgeM/Adrian-ReadMe/5912dd2642234ad11bef3200b53b741bebd8a460/icons/marquee.svg" />
