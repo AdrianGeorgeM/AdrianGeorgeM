@@ -119,4 +119,4 @@ products that serve a great deal of purpose. I'm currently into Web Development
 
 ### If you like this ReadMe file, please give me star! ❤️
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="" />
