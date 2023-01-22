@@ -29,12 +29,6 @@ products that serve a great deal of purpose. I'm currently into Web Development
 > trapped by dogma – which is living with the results of other people's
 > thinking. -- Steve Jobs
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx adrian
-```
-
 ## ⚡️ A Few Quick Facts
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
