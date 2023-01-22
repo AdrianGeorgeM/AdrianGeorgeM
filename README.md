@@ -1,20 +1,15 @@
-<!-- Title Hello -->
 <h1 align="center"> 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hello! I am <a href="https://github.com/AdrianGeorgeM">Adrian</a> 
 <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
-<!-- End Tittle Hello -->
-<!-- Nothing weird to see here -->
 <p align="center">
 
    <a href="https://spotify-github-profile.vercel.app/api/view?uid=kingmanolo&redirect=true">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <!-- novatorem theme -->
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=kingmanolo&cover_image=true&theme=default&show_offline=false&background_color=121212">
 
   </a>
 </p>
-<!-- Emails -->
+
 <h2>📬 Find Me At</h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AdrianGeorgeM)
@@ -36,42 +31,34 @@ products that serve a great deal of purpose. I'm currently into Web Development
 
 ## ⚡️ A Few Quick Facts
 
-<!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working at [Movable Ink](https://movableink.com/);
 - 🌱 Learning how to build in web3;
 - 🤔 My hobbies are playing chess and running.
 - 🙌 Fan of the 🙌 emoji;
-- 👯 We can connect to play some games of Chess ♟
+- 👯 We can connect to play some games of Chess♟
 - ⚡️ Fun fact: Ich kann ein bisschen Deutsch;
-<!-- EmAILS -->
 
 ### <img alt="GIF" src="https://github.com/AdrianGeorgeM/adrian/blob/main/icons/hmm.gif" width="20" /> A Famous Fact/Quote:
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>A professional typist types fast and types great amount of words daily. If we measure this as distance, than it will become 12.6 miles a day for the fingers of the typist to cover each day.</i>
-<!--ENDS_HERE_QUOTE_README-->
+
 </a>
 
 ---
 
-<!-- Jokes -->
-
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-<!--end  Jokes -->
-
-<!-- IMAGE CODES -->
 
 ![](https://github.com/AdrianGeorgeM/adrian/blob/main/icons/header_1.png)
 
 <td valign="top" width="50%" align="center">
 
 </td>
-<!-- eND imAGE Codes -->
 
 ## tasks
 
@@ -82,8 +69,6 @@ products that serve a great deal of purpose. I'm currently into Web Development
 - [ ] Die
 
 <br/>
-
-<!-- [![adrian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adriangeorgem)](https://github.com/AdrianGeorgeM/github-readme-stats) -->
 
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
