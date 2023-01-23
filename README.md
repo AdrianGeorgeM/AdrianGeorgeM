@@ -76,7 +76,7 @@ products that serve a great deal of purpose. I'm currently into Web Development
 <p align=center>
    <div align=center>
     <a href="#">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGeorgeM&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrianGeorgeM&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 
@@ -86,7 +86,7 @@ products that serve a great deal of purpose. I'm currently into Web Development
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianGeorgeM&theme=tokyonight" alt="AdrianGeorgeM" />
     </a>
     <a href="# title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AdrianGeorgeM&hide=stars&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
+      <img align="right" width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrianGeorgeM&hide=stars&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
     </a>
   </div>
 
