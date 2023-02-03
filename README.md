@@ -102,7 +102,7 @@ products that serve a great deal of purpose. I'm currently into Web Development
 
 ## About
 
-### If you like this ReadMe file, please give me star! ❤️
+### If you like this ReadMe file,give me star! ❤️
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/AdrianGeorgeM/AdrianGeorgeM/d66ffc5dc5ea8c8fe24a2062e3b4ece373fb931d/icons/marquee.svg" />
 
