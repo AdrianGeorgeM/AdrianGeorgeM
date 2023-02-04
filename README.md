@@ -22,7 +22,7 @@
 I'm [Adrian]() a **self-taught** **Front End Developer 💻 😃** passionate about
 learning and working with new tech. I love building interesting and amazing
 products that serve a great deal of purpose. I'm currently into Web Development
-🕸️ <br> I am working on some side projects, learning a couple new dishes.🤓
+🕸️ <br> I am working on some side projects,learning a couple new dishes.🤓
 <br/><br/>
 
 > Your time is limited, so don't waste it living someone else's life. Don't be
