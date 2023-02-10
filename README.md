@@ -89,7 +89,7 @@ products that serve a great deal of purpose. I'm currently into Web Development
       <img align="right" width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrianGeorgeM&hide=stars&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
     </a> -->
    <a href="# title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AdrianGeorgeM&hide=stars&count_private=true&&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AdrianGeorgeM&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" />
     </a>
   </div>
 
