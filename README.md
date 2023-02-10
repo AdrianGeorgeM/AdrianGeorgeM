@@ -74,6 +74,7 @@ products that serve a great deal of purpose. I'm currently into Web Development
 <br>
 
 <p align=center>
+   
     <div align=center>
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianGeorgeM&theme=tokyonight" alt="AdrianGeorgeM" />
     </a>
