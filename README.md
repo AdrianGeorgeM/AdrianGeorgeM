@@ -42,9 +42,9 @@ products that serve a great deal of purpose. I'm currently into Web Development
 
 ### <img alt="GIF" src="https://github.com/AdrianGeorgeM/adrian/blob/main/icons/hmm.gif" width="20" /> A Famous Fact/Quote:
 
-<a href="https://github.com/marketplace/actions/quote-readme">
+<a href="#">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you automate a mess, you get an automated mess.”— Rod Michael❞</i>
+<i>❝“Maybe stories are just data with a soul.”— Brené Brown❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
