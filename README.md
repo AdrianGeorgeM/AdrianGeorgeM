@@ -44,6 +44,7 @@ products that serve a great deal of purpose. I'm currently into Web Development
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝“If you automate a mess, you get an automated mess.”— Rod Michael❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
