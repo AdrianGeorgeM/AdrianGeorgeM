@@ -13,7 +13,7 @@
 <h2>📬 Find Me At</h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AdrianGeorgeM)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-george-aa01721a5/)
+[![Linkedin](https://www.linkedin.com/in/adrian-g-aa01721a5/)](https://www.linkedin.com/in/adrian-george-aa01721a5/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adriangeorgedev@gmail.com)
 ![](https://komarev.com/ghpvc/?username=AdrianGeorgeM&color=brightgreen) &nbsp;
 
