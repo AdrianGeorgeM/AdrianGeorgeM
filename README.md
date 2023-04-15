@@ -44,7 +44,7 @@ products that serve a great deal of purpose. I'm currently into Web Development
 
 <a href="#">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Maybe stories are just data with a soul.”— Brené Brown❞</i>
+<i>❝“Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
