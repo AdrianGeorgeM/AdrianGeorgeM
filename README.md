@@ -33,7 +33,7 @@ products that serve a great deal of purpose. I'm currently into Web Development
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨‍💻 I’m currently working at [Movable Ink](https://movableink.com/);
+- 👨‍💻 Embarking on new coding adventures. Stay tuned on my GitHub!
 - 🌱 Learning how to build in web3;
 - 🤔 My hobbies are playing chess and running.
 - 🙌 Fan of the 🙌 emoji;
