@@ -10,7 +10,7 @@
   <a href="https://github.com/AdrianGeorgeM">
     <img src="https://img.shields.io/badge/The_Show-GitHub-brightgreen?style=for-the-badge&logo=github" alt="GitHub Badge">
   </a>
-  <a href="https://www.linkedin.com/in/adrian-g-aa01721a5/">
+  <a href="https://www.linkedin.com/in/adrian-george-aa01721a5/">
     <img src="https://img.shields.io/badge/The_Network-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
   </a>
   <a href="mailto:adriangeorgedev@gmail.com">
