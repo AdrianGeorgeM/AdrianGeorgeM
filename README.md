@@ -63,6 +63,15 @@ Hello, digital explorers! I'm Adrian, your savvy guide through this tech wonderl
 
 ---
 
+## 👔 Here's Some Humor for You 👔
+
+<img src="https://readme-jokes.vercel.app/api" alt=" Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
+![](https://github.com/AdrianGeorgeM/adrian/blob/main/icons/header_1.png)
+
+<td valign="top" width="50%" align="center">
+
+
 ## 🎯 Life's Milestones 🎯
 
 - [x] Entered Stage (Born 🎉)
