@@ -36,7 +36,7 @@ Hello, digital explorers! I'm Adrian, your savvy guide through this tech wonderl
 - 🌐 Currently mastering Web3 and blockchain magic
 - 🎮 Enthusiast in chess and marathon running
 - 🎲 Favorite Emoji: 🎲 (Life's a gamble!)
-- 🇩🇪 A little bit of Deutsch under my belt
+- 🇩🇪 Ein bisschen Deutsch unter meinem Gürtel (A little bit of German under my belt)
 
 ---
 
@@ -54,14 +54,8 @@ Hello, digital explorers! I'm Adrian, your savvy guide through this tech wonderl
 
 <p align="center">
   <a href="https://github.com/AdrianGeorgeM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianGeorgeM&show_icons=true&theme=radical&count_private=true" alt="Adrian's GitHub Stats" />
+      <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGeorgeM&theme=radical&layout=compact" alt="Adrian's Most Used Languages" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianGeorgeM&theme=dark" alt="Adrian's GitHub Streaks"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AdrianGeorgeM">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGeorgeM&theme=radical&layout=compact" alt="Adrian's Most Used Languages" />
   </a>
 </p>
 
