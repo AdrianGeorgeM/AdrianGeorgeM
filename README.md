@@ -22,7 +22,9 @@
 
 ## 🎭 The Man Behind The Curtain 🎭
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
+
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200">
+
 
 Hello, digital explorers! I'm Adrian, your savvy guide through this tech wonderland. I'm a **Front-End Developer** with a penchant for creating spellbinding user experiences. 🎩✨
 
