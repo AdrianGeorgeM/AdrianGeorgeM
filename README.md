@@ -77,7 +77,7 @@ Hello, digital explorers! I'm Adrian, your savvy guide through this tech wonderl
 - [x] Entered Stage (Born 🎉)
 - [x] Digital Magician 🎩
 - [x] Find My Co-Magician 🐇
-- [ ] Mini-Magicians Academy 👨‍👩‍👧‍👦
+- [x] Mini-Magicians Academy 👨‍👩‍👧‍👦
 - [ ] Grand Finale 🌹
 
 ---
